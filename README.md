@@ -1,6 +1,4 @@
 # simple-interest-calculator
-# Simple Interest Calculator
-
 ## 📌 Description
 This project calculates simple interest based on principal, rate, and time.
 
